@@ -1,4 +1,8 @@
-![image](https://github.com/emsoltana/emsoltana/assets/91498673/876eeb05-a8de-43a6-b3b2-a4998a611243)
+  <div align="center">
+  <a href="https://github.com/emsoltana">
+    <img src="https://64.media.tumblr.com/bd4c2c7ff27ff98233abed3c58be1809/6c5f17b87a8c979b-db/s1280x1920/25d0cd733cd6725aa7960c1595502bdb284266ec.gifv" width="500">
+  </a>
+</div>
 <h1 align="center">Hey!👋, I'm Bibi</h1>
 <h3 align="center">A driven IT student at Windesheim, dutch University of Applied Sciences</h3>
 

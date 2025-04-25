@@ -1,6 +1,7 @@
   <div align="center">
   <a href="https://github.com/emsoltana">
-    <img src="https://pin.it/57pKogylj" width="500">
+    <img src="![96251e36ce717d55f4c61a081ab9180a](https://github.com/user-attachments/assets/e1646b53-7c47-4e08-bdd3-77545f8c172d)" width="500">
+
   </a>
 </div>
 <h1 align="center">Hey!👋, I'm Bibi</h1>

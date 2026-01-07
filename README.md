@@ -5,9 +5,12 @@
   </a>
 </div>
 <h1 align="center">Hey!👋, I'm Bibi</h1>
-<h3 align="center">A driven IT student at Windesheim, dutch University of Applied Sciences</h3>
+<h3 align="center">Cybersecurity professional focused on offensive security and infrastructure automation</h3>
 
-- 🌱 I’m currently learning **cybersecurity**
+🔒 Currently working in cybersecurity operations
+🛡️ Actively improving my penetration testing skills
+🚀 Learning DevOps practices and tooling
+💡 Always exploring new security challenges and techniques
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

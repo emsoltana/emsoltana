@@ -7,10 +7,10 @@
 <h1 align="center">Hey!👋, I'm Bibi</h1>
 <h3 align="center">Cybersecurity professional focused on offensive security and infrastructure automation</h3>
 
-🔒 Currently working in cybersecurity operations
-🛡️ Actively improving my penetration testing skills
-🚀 Learning DevOps practices and tooling
-💡 Always exploring new security challenges and techniques
+<h4>🔒 Currently working in cybersecurity operations</h4>
+<h4>🛡️ Actively improving my penetration testing skills</h4>
+<h4>🚀 Learning DevOps practices and tooling</h4>
+<h4>💡 Always exploring new security challenges and techniques</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

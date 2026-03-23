@@ -3,14 +3,14 @@
   
   <h1>✨ Hi, I'm Bibi ✨</h1>
   
-  **Cybersecurity Ops | Offensive Security | Automation**
+  **Cybersecurity Ops | Offensive Security | Infra Automation**
   
   ---
 
   ### 🌸 about me
-   **Security:** focused on pen-testing & infrastructure automation.
-   **DevOps:** building tools to make things faster & safer.
-   **Development:** I build hyper-specific apps (like a full-scale product tracker to beat those "out of stock" notifications!).
+  <h4>Security: focused on securing daily work environments and pentesting. </h4>
+   <h4>DevOps: automating infrastructure to make it faster and safer. </h4>
+   <h4>Development: I like to build apps to make my life easier. </h4>
 
   ---
 
